@@ -1,18 +1,18 @@
 # UnitCreator
 
-##Synopsis
+## Synopsis
 
 This is a unit creator for Age of Empires IV
 
-##Motivation
+## Motivation
 
 This is something I thought that could be useful.
 
-##How to use
+## How to use
 
 Download the only file and use a java runner with it.
 
-##Code Example
+## Code Example
 
 This example shows how the unit class is chosen
 
@@ -24,6 +24,6 @@ This example shows how the unit class is chosen
 		>	classSelector = input.nextInt();
 	>	}
 
-##Contributors
+## Contributors
 
 Me, Myself, and I.
